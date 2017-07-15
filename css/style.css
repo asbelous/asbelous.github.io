@@ -21,7 +21,7 @@ a:active, a:visited, a:focus {
 	color: #000;
 	color: #fff;
 	height: 100vh;
-	background: #fff url(../css/img/main-bg.jpg) center center no-repeat;
+	/* background: #fff url(../css/img/main-bg.jpg) center center no-repeat; */
 }
 .main h1{
 	/* margin: 0; */
